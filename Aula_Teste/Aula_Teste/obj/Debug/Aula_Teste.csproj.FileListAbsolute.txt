@@ -1,0 +1,10 @@
+C:\Users\Aluno3\Desktop\Aula_Teste\Aula_Teste\bin\Debug\Aula_Teste.exe.config
+C:\Users\Aluno3\Desktop\Aula_Teste\Aula_Teste\bin\Debug\Aula_Teste.exe
+C:\Users\Aluno3\Desktop\Aula_Teste\Aula_Teste\bin\Debug\Aula_Teste.pdb
+C:\Users\Aluno3\Desktop\Aula_Teste\Aula_Teste\obj\Debug\Aula_Teste.csproj.AssemblyReference.cache
+C:\Users\Aluno3\Desktop\Aula_Teste\Aula_Teste\obj\Debug\Aula_Teste.FrmTeste.resources
+C:\Users\Aluno3\Desktop\Aula_Teste\Aula_Teste\obj\Debug\Aula_Teste.Properties.Resources.resources
+C:\Users\Aluno3\Desktop\Aula_Teste\Aula_Teste\obj\Debug\Aula_Teste.csproj.GenerateResource.cache
+C:\Users\Aluno3\Desktop\Aula_Teste\Aula_Teste\obj\Debug\Aula_Teste.csproj.CoreCompileInputs.cache
+C:\Users\Aluno3\Desktop\Aula_Teste\Aula_Teste\obj\Debug\Aula_Teste.exe
+C:\Users\Aluno3\Desktop\Aula_Teste\Aula_Teste\obj\Debug\Aula_Teste.pdb
