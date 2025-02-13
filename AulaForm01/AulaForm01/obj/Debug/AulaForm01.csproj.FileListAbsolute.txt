@@ -1,0 +1,10 @@
+C:\Users\Aluno3\Desktop\AulaForm01\AulaForm01\bin\Debug\AulaForm01.exe.config
+C:\Users\Aluno3\Desktop\AulaForm01\AulaForm01\bin\Debug\AulaForm01.exe
+C:\Users\Aluno3\Desktop\AulaForm01\AulaForm01\bin\Debug\AulaForm01.pdb
+C:\Users\Aluno3\Desktop\AulaForm01\AulaForm01\obj\Debug\AulaForm01.csproj.AssemblyReference.cache
+C:\Users\Aluno3\Desktop\AulaForm01\AulaForm01\obj\Debug\AulaForm01.frmPrincipal.resources
+C:\Users\Aluno3\Desktop\AulaForm01\AulaForm01\obj\Debug\AulaForm01.Properties.Resources.resources
+C:\Users\Aluno3\Desktop\AulaForm01\AulaForm01\obj\Debug\AulaForm01.csproj.GenerateResource.cache
+C:\Users\Aluno3\Desktop\AulaForm01\AulaForm01\obj\Debug\AulaForm01.csproj.CoreCompileInputs.cache
+C:\Users\Aluno3\Desktop\AulaForm01\AulaForm01\obj\Debug\AulaForm01.exe
+C:\Users\Aluno3\Desktop\AulaForm01\AulaForm01\obj\Debug\AulaForm01.pdb
