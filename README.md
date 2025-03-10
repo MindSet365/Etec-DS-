@@ -1,3 +1,3 @@
 # Etec-DS-
 
-Here lies my projects in my time studying analysis and system development at E.T.E.C. Dra. Ruth Cardoso
+Here lies my projects made at E.T.E.C. Dra. Ruth Cardoso in my studying time analysis and system development 
